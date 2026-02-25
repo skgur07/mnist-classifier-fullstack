@@ -332,3 +332,5 @@ yarn-error.log
 *.pb
 
 .python-version
+
+.idea
