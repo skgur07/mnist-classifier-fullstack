@@ -334,3 +334,20 @@ yarn-error.log
 .python-version
 
 .idea
+
+# ==========================================================
+# Fullstack Project Specific (Frontend & Backend)
+# ==========================================================
+
+# Frontend (Vite Build Output)
+frontend/dist/
+dist/
+
+# Backend (FastAPI / Uvicorn / uv)
+backend/.venv/
+.venv/
+uv.lock
+
+# macOS junk files
+.DS_Store
+**/.DS_Store
